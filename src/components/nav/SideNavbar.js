@@ -10,6 +10,7 @@ export const SideNavbar = () => {
   const [activeNav, setActiveNav] = useState('#');
 
   const [scrollPosition, setScrollPosition] = useState(0);
+// eslint-disable-next-line react-hooks/exhaustive-deps
 const handleScroll = () => {
     const position = window.pageYOffset;
     setScrollPosition(position);
@@ -32,7 +33,7 @@ useEffect(() => {
         window.removeEventListener('scroll', handleScroll);
        
     };
-}, []);
+}, [handleScroll]);
 
 
 

@@ -1,21 +1,23 @@
 {
     "basics": {
-        "name": "Mohammed Yaseen",
+        "name": "Aswin Krishna",
         "label": "Web Developer",
-        "email": "mohdyaseen.official@gmail.com",
-        "phone": "(+91) 755-8978583",
+        "email": "aswinasher@gmail.com",
+        "phone": "(+91) 9846356057",
         "picture": "profile2.png",
         "x_title": "Hello, I'm",
         "job1": "Web",
         "job2": "Developer",
-        "description": "Hello! I'm Yaseen! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "job3": "Ethical",
+        "job4": "Hacker",
+        "description": "Hello! I'm Aswin! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
         "summary": "based in Kerala, India.",
-        "keywords": "personal,website,portfolio,template,india,yaseen,mohammed,alameen,mernstack,mern,merndeveloper,mhdyaseen,mhdyaseen8841,mohammedyaseen,webdev,web,developer,kerala,perumbavoor,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
-        "url": "https://mohammedyaseen.live",
+        "keywords": "personal,website,portfolio,template,india,Aswin Asher,Aswin Krishna,alameen,mernstack,mern,merndeveloper,mhdyaseen,mhdyaseen8841,mohammedyaseen,webdev,web,developer,kerala,Thrissur,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "https://aswinkrishna.ml",
         "location": {
-            "address": "Puthukkadan House Ponjassery",
+            "address": "Vettukattukundil house",
             "postalCode": "683547",
-            "city": "Ernakulam",
+            "city": "Thrissur",
             "country": "India",
             "countryCode": "IN",
             "region": "South"
@@ -23,37 +25,37 @@
         "profiles": [
             {
                 "network": "Google",
-                "username": "mhdyaseen.official@gmail.com",
-                "url": "mailto:mhdyaseen.official@gmail.com",
+                "username": "aswinasher@gmail.com",
+                "url": "mailto:aswinasher@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "Mohammed Yaseen",
-                "url": "https://www.linkedin.com/in/mohammed-yaseen-b695a81b3/",
+                "username": "Aswin Krishna",
+                "url": "https://www.linkedin.com/in/aswin-krishna-vb-4a69621ab/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "mhdyaseen8841",
-                "url": "https://github.com/mhdyaseen8841",
+                "username": "An0n7os",
+                "url": "https://github.com/an0n7os",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "Instagram",
-                "username": "mohdyaseen.official",
-                "url": "https://www.instagram.com/mohdyaseen.official/",
+                "username": "Aswin Asher",
+                "url": "https://www.instagram.com/aswin.asher/",
                 "x_icon": "fab fa-instagram"
             },
             {
                 "network": "Twitter",
-                "username": "@MohammedyaseenO",
-                "url": "https://twitter.com/MohammedyaseenO",
+                "username": "aswinkrishnavb",
+                "url": "https://twitter.com/an07os",
                 "x_icon": "fab fa-twitter"
             },
             {
                 "network": "Whatsapp",
-                "username": "7558978583",
+                "username": "9846356057",
                 "url": "https://wa.me/+917558978583?text=Hi!%20I%20want%20help%20of%20you.",
                 "x_icon": "fab fa-whatsapp"
             }
@@ -83,13 +85,13 @@
     ],
     "education": [
         {
-            "institution": "Alameen College",
-            "area": "Computer Application",
+            "institution": "JCT College of Engineering and Technology",
+            "area": "Computer Science Engineering",
             "studyType": "Bachelor",
             "startDate": "2020-10-25",
             "endDate": "2023-04-01",
             "gpa": "8.0",
-            "courses": ["BCA - computer application"]
+            "courses": ["BTECH - Computer Science"]
         }
     ],
     "awards": [
@@ -143,7 +145,7 @@
     ],
     "references": [
         {
-            "name": "Mohammed Yaseen",
+            "name": "Aswin Krishna",
             "reference": "Reference..."
         }
     ]

@@ -8,10 +8,10 @@ import { TextDecrypt } from "../content/TextDecrypt";
 import './Works.css';
 
 // Import ../../assets/recentprojects/
-import Cakey from '../../assets/recentprojects/cakey.png';
-import Techio from '../../assets/recentprojects/techio.png';
+import Anon from '../../assets/recentprojects/anonshopping.png';
+import MakeupPortfolio from '../../assets/recentprojects/MakeupPortfolio.png';
 import OlxClone from '../../assets/recentprojects/olxclone.png';
-import CarGarage from '../../assets/recentprojects/cargarage.png';
+import windows11clone from '../../assets/recentprojects/windows11clone.png';
 import netflixclone from '../../assets/recentprojects/netflixclone.png';
 
 const useStyles = makeStyles((theme) => ({
@@ -27,19 +27,19 @@ export const Works = () => {
   const [projects, setProjects] = useState([
     { 
       id: 1,
-      title: 'Cakey', 
+      title: 'Anon', 
       description: `Designed and developed Ecommerce 
-      with Node js, Express js, Mongo DB, Handlebars, Twilio. Payment Razorpay integrated.`,
-      alter: 'Cakey Ecommerce',
-      image: `${Cakey}`,
+      with Node js, Express js, Mongo DB,  Payment Razorpay integrated.`,
+      alter: 'Anon Ecommerce ',
+      image: `${Anon}`,
     },
     { 
       id: 2,
-      title: 'Techio', 
-      description: `Designed and developed Ecommerce website
-      with Node js, Express js, Mongo DB, Handlebars, Twilio. Payment Razorpay integrated.`,
-      alter: 'Techio Ecommerce',
-      image: `${Techio}`,
+      title: 'Makeup Portfolio', 
+      description: `Designed and developed Portfolio website
+      with Node js, Express js,`,
+      alter: 'Makeup Portfolio ',
+      image: `${MakeupPortfolio}`,
     },
     { 
       id: 3,
@@ -50,11 +50,10 @@ export const Works = () => {
     },
     { 
       id: 4,
-      title: 'Car Garage', 
-      description: `A website for Car Garage in UAE, To Manage their vehicles.
-      Developed using React js, Php, sql.`,
-      alter: 'Car Garage',
-      image: `${CarGarage}`,
+      title: 'Windows11 clone', 
+      description: `A website for Desktop Windows 11 OS Clone is a Web Application, built Using React JS Library`,
+      alter: 'windows11 clone',
+      image: `${windows11clone }`,
     },
     { 
       id: 5,
